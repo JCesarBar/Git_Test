@@ -1,1 +1,1 @@
-Este es un repositorio de pruba para enseñanza de git/github
+Este es un repositorio de prueba para la enseñanza de git/github
